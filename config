@@ -1,0 +1,11 @@
+Host blog
+     HostName 209.141.48.66
+     User root
+
+Host *
+     Compression yes
+     CompressionLevel 7
+     Cipher blowfish
+     ServerAliveInterval 600
+     ControlMaster auto
+     ControlPath /tmp/ssh-%r@%h:%p
