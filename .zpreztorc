@@ -39,7 +39,7 @@ zstyle ':prezto:load' pmodule \
   'homebrew' \
   'syntax-highlighting' \
   'history-substring-search' \
-  'ssh'
+  'ssh' \
   'prompt'
 
 #
