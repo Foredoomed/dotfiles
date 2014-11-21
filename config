@@ -1,5 +1,5 @@
 Host blog
-     HostName 209.141.48.66
+     HostName 
      User root
 
 Host *
